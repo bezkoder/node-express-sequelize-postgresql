@@ -17,11 +17,10 @@
   "author": "bezkoder",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "pg": "^7.17.1",
-    "pg-hstore": "^2.3.3",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
     "sequelize": "^5.21.3"
   }
 }
